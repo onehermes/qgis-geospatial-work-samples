@@ -1,6 +1,6 @@
-# Service Area / Buffer Analysis - Accessibility Concept Sample
+# Service Area / Buffer Analysis - Accessibility Concept
 
-This sample shows a reproducible QGIS workflow for a simple accessibility analysis built around concentric buffers. It is intentionally framed as a concept sample so the method and its limits are clear.
+This workflow shows a reproducible QGIS process for a simple accessibility analysis built around concentric buffers. It is intentionally framed as a concept exercise so the method and its limits are clear.
 
 ## Objective
 

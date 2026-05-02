@@ -1,6 +1,6 @@
-# Huntsville Public Facilities Map - QGIS Workflow Sample
+# Huntsville Public Facilities Map - QGIS Workflow
 
-This sample describes a reproducible QGIS workflow for building a public-facilities reference map with open data. It is written as a work sample to show analysis thinking, cartographic judgment, and documentation discipline.
+This workflow describes a reproducible QGIS process for building a public-facilities reference map with open data. It is written to show analysis thinking, cartographic judgment, and documentation discipline.
 
 ## Objective
 
@@ -71,7 +71,7 @@ The expected output is a clean portfolio map that shows the study area, public f
 - Open data completeness varies by area and update cycle
 - OpenStreetMap coverage can differ across neighborhoods and feature types
 - Public facility status, names, and locations can change after export
-- The map is a documentation sample, not an authoritative operational dataset
+- The map is a documentation artifact, not an authoritative operational dataset
 - It should not be treated as emergency-response or legal-record evidence
 
 ## Related files

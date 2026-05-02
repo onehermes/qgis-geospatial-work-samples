@@ -1,8 +1,8 @@
 # Data Sources
 
-The goal of this sample is to show clear lineage, not to lock the workflow to one exact download path.
+The goal of this workflow is to show clear lineage, not to lock the process to one exact download path.
 
-| Dataset type | Example source(s) | Use in the sample | Notes |
+| Dataset type | Example source(s) | Use in the workflow | Notes |
 | --- | --- | --- | --- |
 | OpenStreetMap roads, buildings, and points of interest | QuickOSM in QGIS, Geofabrik extracts, or another OSM-based source | Context, reference, and feature extraction | Coverage and feature detail vary by area and update cycle |
 | Public facility locations | Municipal, county, state, or other public open-data portal | Primary point layer for the map | Verify license, update date, and coordinate accuracy |

@@ -1,4 +1,4 @@
-# Sample AI Output Review
+# AI-Generated QGIS Output Review
 
 ## Fake AI-generated GIS instruction example
 

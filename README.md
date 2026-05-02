@@ -1,8 +1,12 @@
-# QGIS & Geospatial Analysis Work Samples
+# QGIS & Geospatial Analysis Portfolio
 
-This repository contains self-directed GIS work samples created to demonstrate how I document QGIS-style workflows, organize spatial data, approach map design, and review AI-generated GIS guidance. It is not presented as client work.
+This repository contains self-directed GIS portfolio pieces created to demonstrate how I document QGIS-style workflows, organize spatial data, approach map design, and review AI-generated GIS guidance. It is not presented as client work.
 
-## What this shows
+## Visual overview
+
+![Portfolio overview diagram](docs/portfolio-overview.svg)
+
+## What this portfolio demonstrates
 
 - QGIS workflow documentation
 - Spatial data organization
@@ -15,12 +19,12 @@ This repository contains self-directed GIS work samples created to demonstrate h
 ## Projects
 
 1. [Huntsville Public Facilities Map](projects/01-huntsville-public-facilities-map/README.md) - open-data map workflow with public facilities and context layers.
-2. [Service Area / Buffer Analysis](projects/02-service-area-buffer-analysis/README.md) - accessibility concept sample using 1-, 3-, and 5-mile buffers.
-3. [GIS Quality Review Sample](projects/03-gis-quality-review-sample/README.md) - review of an AI-generated QGIS answer with a corrected version.
+2. [Service Area / Buffer Analysis](projects/02-service-area-buffer-analysis/README.md) - accessibility concept using 1-, 3-, and 5-mile buffers.
+3. [GIS Quality Review](projects/03-gis-quality-review/README.md) - review of an AI-generated QGIS answer with a corrected version.
 
 ## How this relates to QGIS/GIS quality evaluation
 
-These samples emphasize reproducibility, projection awareness, data-source transparency, unit handling, and limitation statements. Those are the same checks needed when judging whether a QGIS instruction, dataset, or map output is credible and safe to use.
+These pages emphasize reproducibility, projection awareness, data-source transparency, unit handling, and limitation statements. Those are the same checks needed when judging whether a QGIS instruction, dataset, or map output is credible and safe to use.
 
 ## Tools and concepts
 
@@ -32,8 +36,6 @@ These samples emphasize reproducibility, projection awareness, data-source trans
 - Metadata, lineage, and documentation discipline
 - Manual QA and edge-case review
 
-## Contact / portfolio
+## Contact
 
-Portfolio: https://dev.parley.live
-
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/onehermes

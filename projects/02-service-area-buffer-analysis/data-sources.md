@@ -1,8 +1,8 @@
 # Data Sources
 
-This sample can be reproduced with public or open data as long as the source lineage is recorded clearly.
+This workflow can be reproduced with public or open data as long as the source lineage is recorded clearly.
 
-| Dataset type | Example source(s) | Use in the sample | Notes |
+| Dataset type | Example source(s) | Use in the workflow | Notes |
 | --- | --- | --- | --- |
 | Point of interest | Public directory, open-data portal, or manually curated open source | Center point for the buffers | Verify that the point location is current and accurate |
 | Road or street network | OpenStreetMap or a public transportation GIS layer | Context for accessibility discussion | Straight-line buffers do not model route choice or travel time |
