@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.qgz~
+*.qgs~
+*.gpkg-shm
+*.gpkg-wal
+outputs/raw/
+data/raw/
+*.zip
